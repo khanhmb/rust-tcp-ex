@@ -1,0 +1,4 @@
+[target.armv7-unknown-linux-uclibceabihf]
+ar = "/home/macbaokhanh2311/learning/rust/dev/toolchain/arm-ca9-linux-uclibcgnueabihf-6.5/bin/arm-linux-ar"
+linker = "/home/macbaokhanh2311/learning/rust/dev/toolchain/arm-ca9-linux-uclibcgnueabihf-6.5/bin/arm-linux-gcc"
+
